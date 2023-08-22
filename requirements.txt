@@ -4,3 +4,6 @@ numpy
 ydata-profiling
 streamlit-pandas-profiling
 Jinja2
+psycopg2
+psycopg-binary
+pyad
